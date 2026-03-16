@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Lucien Boyer 👋
+### Engineering Student in Computer Science & Applied Mathematics
 
-<!--
-**Luxus95/Luxus95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 3rd-year engineering student at **CY Tech** (France), combining a rigorous mathematical foundation with expertise in low-level systems and high-performance algorithms.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technical Focus
+* **High-Performance Computing**: Optimized C engines using AVL Trees and $O(\log n)$ structures.
+* **Mathematics**: Valedictorian (Ranked 1st) in Mathematical Analysis.
+* **Systems Engineering**: Interested in Aerospace, Robotics, and AI architectures.
+
+### 🛠 Tech Stack
+* **Languages**: C, C++, Python, Java, SQL, Shell, R.
+* **Web**: PHP, JavaScript, HTML/CSS.
+* **Tools**: Git, Docker, Linux (Ubuntu/Debian).
+
+### 📈 Featured Projects
+* **[C-Wire](https://github.com/Luxus95/C-Wire)**: High-performance data engine for electrical grids processing 5M+ rows.
+* **[Cyber-Path](https://github.com/Luxus95/Cyber-Path)**: Procedural tactical engine with sliding physics in C.
+
+---
+
+### 📫 Connect with me
+* **LinkedIn**: [linkedin.com/in/lucien-boyer](https://linkedin.com/in/lucien-boyer)
+* **Email**: lucien.byr@gmail.com
+* **Location**: Osny, France 🇫🇷 | Goal: Keio University, Japan 🇯🇵
+
+---
+*"The code is only as strong as the mathematics behind it."*
