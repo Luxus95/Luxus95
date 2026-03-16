@@ -18,9 +18,8 @@ I am a 3rd-year engineering student at **CY Tech** (France), combining a rigorou
 
 ### 📈 Featured Projects
 * **[C-Wire](https://github.com/eliot1412/Projet-Info-2024-2025)**: High-performance data engine for electrical grids (Processing 5M+ rows).
-* **[Cyber-Path](https://github.com/Jej0/CYBER_PATH)**: Procedural tactical engine with sliding physics developed in C.
 * **[DeepDive](https://github.com/matlhieu/DeepDive)**: Full-Stack platform featuring a custom JSON data persistence layer.
-
+* **[Cyber-Path](https://github.com/Jej0/CYBER_PATH)**: Procedural tactical engine with sliding physics developed in C.
 ---
 
 ### 📫 Connect with me
