@@ -24,7 +24,5 @@ I am a 3rd-year engineering student at **CY Tech** (France), combining a rigorou
 ### 📫 Connect with me
 * **LinkedIn**: [linkedin.com/in/lucien-boyer](https://linkedin.com/in/lucien-boyer)
 * **Email**: lucien.byr@gmail.com
-* **Location**: Osny, France 🇫🇷 | Goal: Keio University, Japan 🇯🇵
-
 ---
 *"The code is only as strong as the mathematics behind it."*
