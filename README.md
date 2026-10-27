@@ -1,7 +1,7 @@
 # Hi, I'm Lucien Boyer 👋
 ### Engineering Student in Computer Science & Applied Mathematics
 
-I am a 3rd-year engineering student at **CY Tech** (France), combining a rigorous mathematical foundation with expertise in low-level systems and high-performance algorithms. Currently focused on systems engineering and hardware-aware software architectures.
+I am a 4rd-year engineering student at **CY Tech** (France), combining a rigorous mathematical foundation with expertise in low-level systems and high-performance algorithms. Currently focused on systems engineering and hardware-aware software architectures.
 
 ---
 
